@@ -10,6 +10,8 @@ Run Demo : [https://astronotmobile.web.app/](https://astronotmobile.web.app/)
 
 Astronot Home Page : [https://astronot.axcora.com](https://astronot.axcora.com)
 
+Play video how to run on your real devices just scan qrcode [https://www.youtube.com/watch?v=MjddBMehguc](https://www.youtube.com/watch?v=MjddBMehguc)
+
 -----------------------
 
 ![free download sourcecode react native built website android app ios app all in one with astronot mobile](astronotmobile1.jpg)
@@ -25,3 +27,6 @@ Documentation : [https://www.hockeycomputindo.com/2022/06/built-android-ios-app-
 Run Demo : [https://astronotmobile.web.app/](https://astronotmobile.web.app/)
 
 Astronot Home Page : [https://astronot.axcora.com](https://astronot.axcora.com)
+
+
+Play video how to run on your real devices just scan qrcode [https://www.youtube.com/watch?v=MjddBMehguc](https://www.youtube.com/watch?v=MjddBMehguc)
