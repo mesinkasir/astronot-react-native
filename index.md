@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Astronot Mobile with React Native
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/astronot-react-native/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+built modern website , android app , ios app all in one with astronot mobile react native
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Info : [https://astronot.axcora.com/mobile.html](https://astronot.axcora.com/mobile.html)
 
-### Markdown
+Documentation : [https://www.hockeycomputindo.com/2022/06/built-android-ios-app-and-website-with.html](https://www.hockeycomputindo.com/2022/06/built-android-ios-app-and-website-with.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Run Demo : [https://astronotmobile.web.app/](https://astronotmobile.web.app/)
 
-```markdown
-Syntax highlighted code block
+Astronot Home Page : [https://astronot.axcora.com](https://astronot.axcora.com)
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------
 
-- Bulleted
-- List
+![free download sourcecode react native built website android app ios app all in one with astronot mobile](astronotmobile1.jpg)
+![free download sourcecode react native built website android app ios app all in one with astronot mobile](astronotmobile2.jpg)
+![free download sourcecode react native built website android app ios app all in one with astronot mobile](astronotmobile3.jpg)
 
-1. Numbered
-2. List
+-----------------------
 
-**Bold** and _Italic_ and `Code` text
+Info : [https://astronot.axcora.com/mobile.html](https://astronot.axcora.com/mobile.html)
 
-[Link](url) and ![Image](src)
-```
+Documentation : [https://www.hockeycomputindo.com/2022/06/built-android-ios-app-and-website-with.html](https://www.hockeycomputindo.com/2022/06/built-android-ios-app-and-website-with.html)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Run Demo : [https://astronotmobile.web.app/](https://astronotmobile.web.app/)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/astronot-react-native/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Astronot Home Page : [https://astronot.axcora.com](https://astronot.axcora.com)
